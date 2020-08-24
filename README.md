@@ -7,16 +7,27 @@
 ⚡️ Flexbox: the flex container, flex, align-items, align-self, justify-items, flex items.
 
 ⚡️ Use Flexbox in real-world projects.
+
 ⚡️ Use SVG icons.
+
 ⚡️ How CSS works behind the scenes: the cascade, specificity, inheritance, etc.
+
 ⚡️ ScaleY, transition properties to create creative hover effecs.
+
 ⚡️ Using Sass in real-world projects: global variables, architecting CSS, managing media queries, Mixins, Extends and Functions.
+
 ⚡️ Responsive images in HTML and CSS for faster pageloads.
+
 ⚡️ The NPM ecosystem: development workflows and building processes.
+
 ⚡️ Advanced CSS animations with @keyframes, animation and transition.
+
 ⚡️ CSS architecture: component-based design, BEM, writing reusable code, etc.
+
 ⚡️ Advanced responsive design: media queries, mobile-first vs desktop-first, em vs rem units, etc.
+
 ⚡️ The Easiest Way of Automatically Reloading a Page on File Changes.
+
 ⚡️ Cross browser testing & support with @supports.
 
 ---
