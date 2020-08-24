@@ -5,6 +5,7 @@
 ## What I learn in this course
 
 ⚡️ Flexbox: the flex container, flex, align-items, align-self, justify-items, flex items, flex-direction, and more.
+
 ⚡️ Use Flexbox in real-world projects.
 
 ⚡️ Use SVG icons.
