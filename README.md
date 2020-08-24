@@ -5,6 +5,7 @@
 ## What I learn in this course
 
 ⚡️ Flexbox: the flex container, flex, align-items, align-self, justify-items, flex items.
+
 ⚡️ Use Flexbox in real-world projects.
 ⚡️ Use SVG icons.
 ⚡️ How CSS works behind the scenes: the cascade, specificity, inheritance, etc.
