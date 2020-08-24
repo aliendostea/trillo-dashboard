@@ -40,7 +40,7 @@
 
 ## When I developed this course 
 
-I developed this project on January 17, 2018. Until January 25, 2018.
+I developed this project on January 17, 2018. Until January 21, 2018.
 
 ## Author of the course
 
